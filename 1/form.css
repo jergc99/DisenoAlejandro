@@ -1,0 +1,30 @@
+div{
+    display: grid;
+    margin: auto;
+    border: 1px black solid;
+    width: 400px;
+    height: 250px;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 2%;
+}
+form{
+    margin: auto;
+
+}
+.enviar{
+    padding: auto;
+    margin: auto;
+    background-color: green;
+    color: white;
+}
+input{
+    padding: auto;
+    margin: 10px;
+    font-display: center;
+
+}
+::placeholder{
+    text-align: center;
+
+}
